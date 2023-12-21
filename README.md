@@ -25,5 +25,5 @@ GIVEN a webpage meets accessibility standards
 https://meowlory3579.github.io/module-one-challenge/
 
 ## Credits
-Starter HTML, CSS, and assets sourced from: https://github.com/coding-boot-camp/urban-octo-telegram
+Starter HTML and assets sourced from: https://github.com/coding-boot-camp/urban-octo-telegram
 
