@@ -18,7 +18,8 @@ GIVEN a webpage meets accessibility standards
 
 ## The following image demonstrates the web application's appearance and functionality
 
-![Webpage titled "Horiseon" featuring "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing" hyperlinks in heading, an imagine of a meeting, a section explaining offered services (Search Engine Optimization, Online Reputation Management, and Social Media Marketing) and a section listing the benefits of using their services (Lead Generation, Brand Awareness, and Cost Management).](https://github.com/Meowlory3579/module-one-challenge/assets/images/01-html-css-git-homework-demo.png)
+![Webpage titled "Horiseon" featuring "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing" hyperlinks in heading, an imagine of a meeting, a section explaining offered services (Search Engine Optimization, Online Reputation Management, and Social Media Marketing) and a section listing the benefits of using their services (Lead Generation, Brand Awareness, and Cost Management).](https://github.com/Meowlory3579/module-one-challenge/blob/main/assets/images/01-html-css-git-homework-demo.png)
+
 
 ## Link to Deployed Application
 
