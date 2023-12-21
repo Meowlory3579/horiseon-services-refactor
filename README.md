@@ -14,7 +14,8 @@ GIVEN a webpage meets accessibility standards
 * WHEN I view the structure of the HTML elements, THEN I find that the elements follow a logical structure independent of styling and positioning
 * WHEN I view the image elements, THEN I find accessible alt attributes
 * WHEN I view the heading attributes, THEN they fall in sequential order
-* WHEN I view the title element, THEN I find a concise, descriptive title
+* WHEN I view the title element, THEN I find a concise, descriptive title  
+
 
 ## The following image demonstrates the web application's appearance and functionality
 
@@ -22,7 +23,8 @@ GIVEN a webpage meets accessibility standards
 
 
 ## Link to Deployed Application
+https://meowlory3579.github.io/module-one-challenge/
 
 ## Credits
-Starter HTML, CSS, and assets sourced from: https://github.com/coding-boot-camp/urban-octo-telegram
+Starter HTML and assets sourced from: https://github.com/coding-boot-camp/urban-octo-telegram
 
