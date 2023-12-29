@@ -23,7 +23,7 @@ GIVEN a webpage meets accessibility standards
 
 
 ## Link to Deployed Application
-https://meowlory3579.github.io/module-one-challenge/
+https://meowlory3579.github.io/horiseon-services-refactor/
 
 ## Credits
 Starter HTML and assets sourced from: https://github.com/coding-boot-camp/urban-octo-telegram
